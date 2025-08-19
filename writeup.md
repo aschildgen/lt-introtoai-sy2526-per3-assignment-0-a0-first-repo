@@ -1,6 +1,6 @@
 # Assignment 0 Writeup
 
-**Name:** [Your name here]  
+**Name:** [Alexander Schildgen]  
 **Date:** [Today's date]
 
 ---
