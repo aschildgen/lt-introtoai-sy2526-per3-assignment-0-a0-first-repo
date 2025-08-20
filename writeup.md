@@ -34,7 +34,7 @@ All answers can be found in the README.md file
 
 **What aspect of AI are you most excited to learn about this year? Explain why.**
 
-[Your answer here - feel free to write a paragraph or more!]
+[I am excited to learn how AI treats rules, will it break groundrules to acheive its main goal?]
 
 ---
 
